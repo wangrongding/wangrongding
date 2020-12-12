@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 -->
 ### Hi there~ I'm Rongding! 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Rongding's github stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="Rongding's github stats"/>
-
 A lovely web developer based in China.
 - Read more about my [Blog](http://www.fedtop.com/)
 - Talk with me by [Email](mailto:wangrongding@qq.com)
 - Follow me on [Twitter](https://twitter.com/Sparrow_wrd) , [weibo](https://weibo.com/wangrongding) or [CSDN](https://blog.csdn.net/weixin_42038245)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Rongding's github stats"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="Rongding's github stats"/>
+
+
 
