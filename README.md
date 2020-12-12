@@ -20,6 +20,6 @@ A lovely web developer based in China.
 - Follow me on [Twitter](https://twitter.com/Sparrow_wrd) , [weibo](https://weibo.com/wangrongding) or [CSDN](https://blog.csdn.net/weixin_42038245)
 
 <a href="https://github.com/wangrongding/wangrongding">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Rongding's github stats"/>
-  <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="Rongding's github stats"/>
+  <img align="left" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=vue" alt="Rongding's github stats"/>
+  <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue" alt="Rongding's github stats"/>
 </a>
