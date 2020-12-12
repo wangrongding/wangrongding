@@ -22,4 +22,4 @@ A lovely web developer based in China.
 
 - Read more about my [Blog](http://www.fedtop.com/)
 - Talk with me by [Email](mailto:wangrongding@qq.com)
-- Follow me on [Twitter](https://twitter.com/Sparrow_wrd) [weibo](https://weibo.com/wangrongding) or [CSDN](https://blog.csdn.net/weixin_42038245)
+- Follow me on [Twitter](https://twitter.com/Sparrow_wrd) , [weibo](https://weibo.com/wangrongding) or [CSDN](https://blog.csdn.net/weixin_42038245)
