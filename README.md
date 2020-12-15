@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there~ I'm Rongding! 👋
 
-<img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
-
+<a href="https://github.com/wangrongding/wangrongding">
+  <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
+</a>
 A lovely web developer based in China.
 
 - 😄Read more about my [Blog](http://www.fedtop.com/)
