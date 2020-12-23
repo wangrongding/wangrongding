@@ -18,6 +18,12 @@ Here are some ideas to get you started:
   <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
 </a>
 
+<!--     
+<a href="https://twitter.com/Sparrow_wrd">
+  <img alt="Follow Excalidraw on Twitter" src="https://img.shields.io/twitter/follow/Sparrow_wrd.svg">
+</a>
+-->
+
 [![](https://img.shields.io/badge/-汪荣顶-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/wangrongding) 
 [![](https://img.shields.io/badge/-FedTop-005A2B?style=flat-square&labelColor=005A2B&logo=Julia&logoColor=fff)](http://www.fedtop.com/)
 [![](https://img.shields.io/badge/-Sparrow_wrd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Sparrow_wrd) 
