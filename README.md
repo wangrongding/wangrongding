@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Sparrow_wrd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Sparrow_wrd)
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/2858385963749223)
 [![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/weixin_42038245)
+[![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/rongding)
 
 #### A lovely web developer based in China.
 
