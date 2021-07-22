@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 
 ####
 
-![](https://img.shields.io/badge/-Node-008000?style=flat-square&logo=Node.Js&labelColor=333333)
+![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-miniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-VUE-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
