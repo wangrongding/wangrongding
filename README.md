@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <b> Hi there! I'm Rongding~ 👋</b>
-![](https://visitor-badge.laobi.icu/badge?page_id=wangrongding)
+[![](https://visitor-badge.laobi.icu/badge?page_id=wangrongding)](https://github.com/wangrongding)
 <a href="https://github.com/wangrongding">
   <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
 </a>
