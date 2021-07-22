@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <b> Hi there! I'm Rongding~ 👋</b>
 [![](https://visitor-badge.laobi.icu/badge?page_id=wangrongding)](https://github.com/wangrongding)
 <a href="https://github.com/wangrongding">
-  <img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
+<img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
 </a>
 
 <!-- ======================================================================== -->
@@ -35,9 +35,13 @@ Here are some ideas to get you started:
 -   👯Follow me on [掘金](https://juejin.cn/user/2858385963749223) , [CSDN](https://blog.csdn.net/weixin_42038245) , [Twitter](https://twitter.com/Sparrow_wrd) or [weibo](https://weibo.com/wangrongding)
 
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-miniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-VUE-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
-![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
+![](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F)
+![](https://img.shields.io/badge/-KaliLinux-white?style=flat-square&logo=KaliLinux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000)
+![](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
