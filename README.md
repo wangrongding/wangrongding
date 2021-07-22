@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b> Hi there! I'm Rongding~ 👋</b>
-[![](https://visitor-badge.laobi.icu/badge?page_id=wangrongding)](https://github.com/wangrongding)
+### Hi there! I'm Rongding~ 👋
+
 <a href="https://github.com/wangrongding">
-<img align="right" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
+    <div align="right" >
+        <img align="right" src="https://count.getloli.com/get/@:wangrongding" alt="汪荣顶" />
+    </div>
 </a>
 
 <!-- ======================================================================== -->
+
+##### A lovely web developer based in China.
 
 [![](https://img.shields.io/badge/-FedTop-005A2B?style=flat-square&labelColor=005A2B&logo=Julia&logoColor=fff)](http://www.fedtop.com/)
 [![](https://img.shields.io/badge/-汪荣顶-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/wangrongding)
@@ -28,10 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/weixin_42038245)
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/rongding)
 
-##### A lovely web developer based in China.
-
 -   😄Read more about my [Blog](http://www.fedtop.com/)
--   📫Talk with me by [Email](mailto:wangrongding@qq.com)
 -   👯Follow me on [掘金](https://juejin.cn/user/2858385963749223) , [CSDN](https://blog.csdn.net/weixin_42038245) , [Twitter](https://twitter.com/Sparrow_wrd) or [weibo](https://weibo.com/wangrongding)
 
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
@@ -46,3 +47,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
 ![](https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000)
 ![](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B)
+
+##### GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/wangrongding">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
+    </a>
+    <a href="https://github.com/wangrongding">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark" alt="Rongding's github stats"/>
+    </a>
+</div>
