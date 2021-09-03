@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 ##### GitHub Stats
 
+![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
+
 <div align="center">
     <a href="https://github.com/wangrongding">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
