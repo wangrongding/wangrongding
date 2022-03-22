@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/rongding)
 
 -   😄Read more about my [Blog](http://www.fedtop.com/)
--   👯Follow me on [掘金](https://juejin.cn/user/2858385963749223) , [CSDN](https://blog.csdn.net/weixin_42038245) , [Twitter](https://twitter.com/Sparrow_wrd) or [weibo](https://weibo.com/wangrongding)
+-   👯Follow me on [掘金](https://juejin.cn/user/2858385963749223) ,[知乎](https://www.zhihu.com/people/rongding) or [weibo](https://weibo.com/wangrongding)
 
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
