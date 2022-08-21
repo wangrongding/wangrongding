@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm Rongding~ 👋
-
+<h3>
+  👋Hi there! I'm Rongding~ 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="50" />
+</h3>
 <a href="https://github.com/wangrongding">
     <div align="right" >
         <img align="right" src="https://count.getloli.com/get/@:wangrongding" alt="汪荣顶" />
