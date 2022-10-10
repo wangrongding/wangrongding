@@ -1,0 +1,46 @@
+name: Update README
+on: # 触发时机
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code repository
+        uses: actions/checkout@v2
+
+      - name: Setup node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.2.2
+        with:
+          version: 7
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Update README
+        run: node index.js
+
+      - name: Show branch and remote
+        run: |
+          git branch
+          git remote -v
+
+      - name: Commit and push if changed # 将README.md更新到仓库
+        run: |
+          git config --global user.email "wangrongding@qq.com"
+          git config --global user.name "wangrongding"
+          git add .
+          git commit -m "Updated Readme" || exit 
+          git push
+
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@1.0.9
