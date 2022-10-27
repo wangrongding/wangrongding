@@ -33,10 +33,13 @@
 
 
 ##### Good projects and good tools 
-- [frontend-park](https://github.com/wangrongding/frontend-park)：一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。  [![](https://img.shields.io/github/stars/wangrongding/frontend-park)](https://github.com/wangrongding/frontend-park) 
-- [desktop-renderer](https://github.com/wangrongding/desktop-renderer)：一个桌面壁纸客户端，支持动态壁纸  [![](https://img.shields.io/github/stars/wangrongding/desktop-renderer)](https://github.com/wangrongding/desktop-renderer) 
-- [node-park](https://github.com/wangrongding/node-park)：node 相关案例集合  [![](https://img.shields.io/github/stars/wangrongding/node-park)](https://github.com/wangrongding/node-park) 
+- [frontend-park](https://github.com/wangrongding/frontend-park)：🌸 一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。  [![](https://img.shields.io/github/stars/wangrongding/frontend-park)](https://github.com/wangrongding/frontend-park) 
+- [desktop-renderer](https://github.com/wangrongding/desktop-renderer)：🏞️ 一个桌面壁纸客户端，支持动态壁纸  [![](https://img.shields.io/github/stars/wangrongding/desktop-renderer)](https://github.com/wangrongding/desktop-renderer) 
+- [super-extensions](https://github.com/wangrongding/super-extensions)：🤖 一个专属于开发者的超级无敌浏览器扩展插件💪  [![](https://img.shields.io/github/stars/wangrongding/super-extensions)](https://github.com/wangrongding/super-extensions) 
+- [node-park](https://github.com/wangrongding/node-park)：🍖 node 相关案例集合  [![](https://img.shields.io/github/stars/wangrongding/node-park)](https://github.com/wangrongding/node-park) 
 - [fanyi](https://github.com/wangrongding/fanyi)：VS Code 划词翻译插件  [![](https://img.shields.io/github/stars/wangrongding/fanyi)](https://github.com/wangrongding/fanyi)     [![](https://badgen.net/vs-marketplace/i/wangrongding.fanyi)](https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi)
+
+- ··············································· 
 - [ding-trans](https://github.com/wangrongding/ding-trans)：🌈一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。  [![](https://img.shields.io/github/stars/wangrongding/ding-trans)](https://github.com/wangrongding/ding-trans)     [![](https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/ding-trans)
 - [prm-cli](https://github.com/wangrongding/prm-cli)：🦄快速切换包管理工具的镜像源  [![](https://img.shields.io/github/stars/wangrongding/prm-cli)](https://github.com/wangrongding/prm-cli)     [![](https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/prm-cli)
 - [dev-search](https://github.com/wangrongding/dev-search)：🌸在命令行中快速搜索你想要的！  [![](https://img.shields.io/github/stars/wangrongding/dev-search)](https://github.com/wangrongding/dev-search)     [![](https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dev-search)
