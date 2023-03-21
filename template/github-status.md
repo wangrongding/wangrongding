@@ -1,4 +1,4 @@
-##### GitHub status
+##### GitHub status:
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=wangrongding&theme=github)
 
