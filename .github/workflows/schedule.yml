@@ -1,11 +1,14 @@
 name: Update README
 on: # 触发时机
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    tags: # Pattern matched against refs/tags
+      - '*' # Push events to every tag not containing /
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
+  #   branches:
+  #     - main
 jobs:
   update-readme:
     runs-on: ubuntu-latest
