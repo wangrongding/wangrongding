@@ -25,7 +25,7 @@
           </li>
         </ul>
       </td>
-      <td align="center" width="30%">
+      <td align="center" width="40%">
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
       </td>
     </tr>
