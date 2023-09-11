@@ -7,6 +7,11 @@
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
           <b> Hi there! I'm Rongding~ </b>
           <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+          <img
+            src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B"
+            alt="Hi"
+            width="400"
+          />
         </h3>
       </td>
     </tr>
@@ -14,13 +19,7 @@
     <tr>
       <td align="left">
         <ul>
-          <li>
-            <img
-              src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B"
-              alt="Hi"
-              width="400"
-            />
-          </li>
+          <li>😄 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a> or WeChat:ChicSparrow</li>
           <li>😄 Read more about my <a target="_blank" href="http://www.fedtop.com/">Blog</a></li>
           <li>
             👯 Follow me on
@@ -59,17 +58,17 @@
       </td>
     </tr>
     <!--  commit graph -->
-    <!-- <tr>
+    <tr>
       <td colspan="2" align="left"><b>Contributions in the last month：</b></td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=300" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=250" />
       </td>
-    </tr> -->
+    </tr>
     <!-- repo -->
     <tr>
-      <td colspan="2" align="left"><b>My other interesting projects：</b></td>
+      <td colspan="2" align="left"><b>Efficiency Tool：</b></td>
     </tr>
     <tr>
       <td colspan="2" align="left">
@@ -82,10 +81,10 @@
             /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/wangrongding/dev-boy">dev-boy</a>：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰
-            <a target="_blank" href="https://github.com/wangrongding/dev-boy"><img src="https://img.shields.io/github/stars/wangrongding/dev-boy" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/dev-boy"
-              ><img src="https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
+            <a target="_blank" href="https://github.com/wangrongding/fanyi">fanyi</a>：VS Code 划词翻译插件
+            <a target="_blank" href="https://github.com/wangrongding/fanyi"><img src="https://img.shields.io/github/stars/wangrongding/fanyi" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi"
+              ><img src="https://badgen.net/vs-marketplace/i/wangrongding.fanyi" alt="VS Code Marketplace installs"
             /></a>
           </li>
           <li>
@@ -96,41 +95,41 @@
             /></a>
           </li>
           <li>
+            <a target="_blank" href="https://github.com/wangrongding/dev-boy">dev-boy</a>：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰
+            <a target="_blank" href="https://github.com/wangrongding/dev-boy"><img src="https://img.shields.io/github/stars/wangrongding/dev-boy" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/dev-boy"
+              ><img src="https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
+            /></a>
+          </li>
+          <li>
             <a target="_blank" href="https://github.com/wangrongding/dev-search">dev-search</a>：🌸 在命令行中快速搜索你想要的！
             <a target="_blank" href="https://github.com/wangrongding/dev-search"><img src="https://img.shields.io/github/stars/wangrongding/dev-search" alt="GitHub stars" /></a>
             <a target="_blank" href="https://www.npmjs.com/package/dev-search"
               ><img src="https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
-          <li>
+          <!-- <li>
+            <a target="_blank" href="https://github.com/wangrongding/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
+            <a target="_blank" href="https://github.com/wangrongding/access-counter"><img src="https://img.shields.io/github/stars/wangrongding/access-counter" alt="GitHub stars" /></a>
+          </li> -->
+          <!-- <li>
             <a target="_blank" href="https://github.com/wangrongding/pm-limiter">pm-limiter</a>：🥳node 包管理器的约束工具，用于协同项目的统一规范。
             <a target="_blank" href="https://github.com/wangrongding/pm-limiter"><img src="https://img.shields.io/github/stars/wangrongding/pm-limiter" alt="GitHub stars" /></a>
             <a target="_blank" href="https://www.npmjs.com/package/pm-limiter"
               ><img src="https://img.shields.io/npm/dt/pm-limiter?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
-          </li>
-          <li>
+          </li> -->
+          <!-- <li>
             <a target="_blank" href="https://github.com/wangrongding/folder-print">folder-print</a>：🌿 一个用于打印当前目录树形结构的终端命令行工具。
             <a target="_blank" href="https://github.com/wangrongding/folder-print"><img src="https://img.shields.io/github/stars/wangrongding/folder-print" alt="GitHub stars" /></a>
             <a target="_blank" href="https://www.npmjs.com/package/folder-print"
               ><img src="https://img.shields.io/npm/dt/folder-print?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
-          </li>
-          <li>
+          </li> -->
+          <!-- <li>
             <a target="_blank" href="https://github.com/wangrongding/github-university">github-university</a>：📚 汇总 github 中优质的学习资源，好用的工具，有趣的项目...
             <a target="_blank" href="https://github.com/wangrongding/github-university"><img src="https://img.shields.io/github/stars/wangrongding/github-university" alt="GitHub stars" /></a>
-          </li>
-          <li>
-            <a target="_blank" href="https://github.com/wangrongding/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
-            <a target="_blank" href="https://github.com/wangrongding/access-counter"><img src="https://img.shields.io/github/stars/wangrongding/access-counter" alt="GitHub stars" /></a>
-          </li>
-          <li>
-            <a target="_blank" href="https://github.com/wangrongding/fanyi">fanyi</a>：VS Code 划词翻译插件
-            <a target="_blank" href="https://github.com/wangrongding/fanyi"><img src="https://img.shields.io/github/stars/wangrongding/fanyi" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi"
-              ><img src="https://badgen.net/vs-marketplace/i/wangrongding.fanyi" alt="VS Code Marketplace installs"
-            /></a>
-          </li>
+          </li> -->
         </ul>
       </td>
     </tr>
