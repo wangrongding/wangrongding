@@ -54,14 +54,14 @@
       </td>
     </tr>
     <!--  commit graph -->
-    <tr>
+    <!-- <tr>
       <td colspan="2" align="left"><b>Contributions in the last month：</b></td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=300" />
       </td>
-    </tr>
+    </tr> -->
     <!-- repo -->
     <tr>
       <td colspan="2" align="left"><b>My other interesting projects：</b></td>
