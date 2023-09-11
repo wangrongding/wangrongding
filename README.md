@@ -17,11 +17,11 @@
     <tr>
       <td align="left">
         <ul>
-          <li>😄 Read more about my <a href="http://www.fedtop.com/">Blog</a></li>
+          <li>😄 Read more about my <a target="_blank" href="http://www.fedtop.com/">Blog</a></li>
           <li>
             👯 Follow me on
-            <a href="https://twitter.com/wangrongding">Twitter</a>, <a href="https://juejin.cn/user/2858385963749223">掘金</a>,
-            <a href="https://www.zhihu.com/people/rongding">知乎</a>
+            <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">掘金</a>,
+            <a target="_blank" href="https://www.zhihu.com/people/rongding">知乎</a>
           </li>
         </ul>
       </td>
@@ -29,7 +29,7 @@
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td colspan="2" align="left">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff" />
@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white" />
         <img src="https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white" />
       </td>
-    </tr> -->
+    </tr>
     <!--  commit graph -->
     <tr>
       <td colspan="2" align="left"><b>Contributions in the last month：</b></td>
@@ -62,63 +62,69 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=300" />
       </td>
     </tr>
+    <!-- repo -->
+    <tr>
+      <td colspan="2" align="left"><b>My other interesting projects：</b></td>
+    </tr>
     <tr>
       <td colspan="2" align="left">
         <ul>
           <li>
-            <a href="https://github.com/wangrongding/prm-cli">prm-cli</a>：🦄 快速切换包管理工具的镜像源
-            <a href="https://github.com/wangrongding/prm-cli"><img src="https://img.shields.io/github/stars/wangrongding/prm-cli" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/prm-cli"
+            <a target="_blank" href="https://github.com/wangrongding/prm-cli">prm-cli</a>：🦄 快速切换包管理工具的镜像源
+            <a target="_blank" href="https://github.com/wangrongding/prm-cli"><img src="https://img.shields.io/github/stars/wangrongding/prm-cli" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/prm-cli"
               ><img src="https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/dev-boy">dev-boy</a>：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰
-            <a href="https://github.com/wangrongding/dev-boy"><img src="https://img.shields.io/github/stars/wangrongding/dev-boy" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/dev-boy"
+            <a target="_blank" href="https://github.com/wangrongding/dev-boy">dev-boy</a>：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰
+            <a target="_blank" href="https://github.com/wangrongding/dev-boy"><img src="https://img.shields.io/github/stars/wangrongding/dev-boy" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/dev-boy"
               ><img src="https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/ding-trans">ding-trans</a>：🌈 一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
-            <a href="https://github.com/wangrongding/ding-trans"><img src="https://img.shields.io/github/stars/wangrongding/ding-trans" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/ding-trans"
+            <a target="_blank" href="https://github.com/wangrongding/ding-trans">ding-trans</a>：🌈 一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
+            <a target="_blank" href="https://github.com/wangrongding/ding-trans"><img src="https://img.shields.io/github/stars/wangrongding/ding-trans" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/ding-trans"
               ><img src="https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/dev-search">dev-search</a>：🌸 在命令行中快速搜索你想要的！
-            <a href="https://github.com/wangrongding/dev-search"><img src="https://img.shields.io/github/stars/wangrongding/dev-search" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/dev-search"
+            <a target="_blank" href="https://github.com/wangrongding/dev-search">dev-search</a>：🌸 在命令行中快速搜索你想要的！
+            <a target="_blank" href="https://github.com/wangrongding/dev-search"><img src="https://img.shields.io/github/stars/wangrongding/dev-search" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/dev-search"
               ><img src="https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/pm-limiter">pm-limiter</a>：🥳node 包管理器的约束工具，用于协同项目的统一规范。
-            <a href="https://github.com/wangrongding/pm-limiter"><img src="https://img.shields.io/github/stars/wangrongding/pm-limiter" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/pm-limiter"
+            <a target="_blank" href="https://github.com/wangrongding/pm-limiter">pm-limiter</a>：🥳node 包管理器的约束工具，用于协同项目的统一规范。
+            <a target="_blank" href="https://github.com/wangrongding/pm-limiter"><img src="https://img.shields.io/github/stars/wangrongding/pm-limiter" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/pm-limiter"
               ><img src="https://img.shields.io/npm/dt/pm-limiter?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/folder-print">folder-print</a>：🌿 一个用于打印当前目录树形结构的终端命令行工具。
-            <a href="https://github.com/wangrongding/folder-print"><img src="https://img.shields.io/github/stars/wangrongding/folder-print" alt="GitHub stars" /></a>
-            <a href="https://www.npmjs.com/package/folder-print"
+            <a target="_blank" href="https://github.com/wangrongding/folder-print">folder-print</a>：🌿 一个用于打印当前目录树形结构的终端命令行工具。
+            <a target="_blank" href="https://github.com/wangrongding/folder-print"><img src="https://img.shields.io/github/stars/wangrongding/folder-print" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/folder-print"
               ><img src="https://img.shields.io/npm/dt/folder-print?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/github-university">github-university</a>：📚 汇总 github 中优质的学习资源，好用的工具，有趣的项目...
-            <a href="https://github.com/wangrongding/github-university"><img src="https://img.shields.io/github/stars/wangrongding/github-university" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://github.com/wangrongding/github-university">github-university</a>：📚 汇总 github 中优质的学习资源，好用的工具，有趣的项目...
+            <a target="_blank" href="https://github.com/wangrongding/github-university"><img src="https://img.shields.io/github/stars/wangrongding/github-university" alt="GitHub stars" /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
-            <a href="https://github.com/wangrongding/access-counter"><img src="https://img.shields.io/github/stars/wangrongding/access-counter" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://github.com/wangrongding/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
+            <a target="_blank" href="https://github.com/wangrongding/access-counter"><img src="https://img.shields.io/github/stars/wangrongding/access-counter" alt="GitHub stars" /></a>
           </li>
           <li>
-            <a href="https://github.com/wangrongding/fanyi">fanyi</a>：VS Code 划词翻译插件
-            <a href="https://github.com/wangrongding/fanyi"><img src="https://img.shields.io/github/stars/wangrongding/fanyi" alt="GitHub stars" /></a>
-            <a href="https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi"><img src="https://badgen.net/vs-marketplace/i/wangrongding.fanyi" alt="VS Code Marketplace installs" /></a>
+            <a target="_blank" href="https://github.com/wangrongding/fanyi">fanyi</a>：VS Code 划词翻译插件
+            <a target="_blank" href="https://github.com/wangrongding/fanyi"><img src="https://img.shields.io/github/stars/wangrongding/fanyi" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wangrongding.fanyi"
+              ><img src="https://badgen.net/vs-marketplace/i/wangrongding.fanyi" alt="VS Code Marketplace installs"
+            /></a>
           </li>
         </ul>
       </td>
