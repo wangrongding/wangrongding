@@ -3,29 +3,27 @@
     <!-- Header -->
     <tr>
       <td colspan="2" align="left">
-        <h3>
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
-          <b> Hi there! I'm Rongding~ </b>
-          <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
-          <img
-            src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B"
-            alt="Hi"
-            width="400"
-          />
-        </h3>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
+        <b> Hi there! I'm Rongding~ </b>
+        <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B"
+          alt="Hi"
+          width="400"
+        />
       </td>
     </tr>
     <!-- 访问量 -->
     <tr>
       <td align="left">
         <ul>
-          <li>😄 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a> or WeChat:ChicSparrow</li>
           <li>😄 Read more about my <a target="_blank" href="http://www.fedtop.com/">Blog</a></li>
           <li>
             👯 Follow me on
             <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">掘金</a>,
             <a target="_blank" href="https://www.zhihu.com/people/rongding">知乎</a>
           </li>
+          <li>😄 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a> or WeChat: ChicSparrow</li>
         </ul>
       </td>
       <td align="center" width="40%">
