@@ -41,9 +41,9 @@
         <img src="https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB" />
         <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white" />
         <img src="https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F" />
-        <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js" />
-        <img src="https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160" />
         <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160" />
+        <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js" />
         <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
         <img src="https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff" />
         <img src="https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B" />
@@ -52,7 +52,6 @@
         <img src="https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000" />
         <img src="https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white" />
         <img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white" />
       </td>
     </tr>
     <!--  commit graph -->
