@@ -31,12 +31,10 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="left">
-        <b>🏃‍♂️中国的朋友也可以添加我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友，一起变强！记得备注来意，也欢迎关注我的公众号【前端超人】</b>
-      </td>
+      <td colspan="2" align="left">🏃‍♂️中国的朋友可以添加我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友！记得备注来意，我的公众号【前端超人】</td>
     </tr>
     <!-- skills -->
-    <tr>
+    <!-- <tr>
       <td colspan="2" align="left">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff" />
@@ -58,7 +56,7 @@
         <img src="https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white" />
         <img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white" />
       </td>
-    </tr>
+    </tr> -->
     <!--  commit graph -->
     <!-- <tr>
       <td colspan="2" align="left"><b>Contributions in the last month：</b></td>
