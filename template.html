@@ -23,11 +23,16 @@
             <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
             <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
           </li>
-          <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a> or WeChat: ChicSparrow</li>
+          <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a></li>
         </ul>
       </td>
       <td align="center" width="30%">
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+        <b>🏃‍♂️中国的朋友也可以添加我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友，一起变强！记得备注来意，也欢迎关注我的公众号【前端超人】</b>
       </td>
     </tr>
     <!-- skills -->
