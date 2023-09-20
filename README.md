@@ -20,8 +20,8 @@
           <li>👀 Read more about my <a target="_blank" href="http://www.fedtop.com/">Blog</a></li>
           <li>
             🌸 Follow me on
-            <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">掘金</a>,
-            <a target="_blank" href="https://www.zhihu.com/people/rongding">知乎</a>
+            <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
+            <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
           </li>
           <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a> or WeChat: ChicSparrow</li>
         </ul>
