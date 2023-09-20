@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="left">🏃‍♂️中国的朋友可以添加我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友！记得备注来意，我的公众号【前端超人】</td>
+      <td colspan="2" align="left">🏃‍♂️中国的朋友可以添加我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友！记得备注来意。我的公众号：【前端超人】</td>
     </tr>
     <!-- skills -->
     <!-- <tr>
