@@ -31,7 +31,12 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="left">🏃‍♂️我的微信【 ChicSparrow 】，很希望和志同道合的人成为朋友！添加请备注来意。偶尔会更新公众号：【前端超人】</td>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=250" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">公众号：【 前端超人 】，微信【 ChicSparrow 】，如果你也很热爱编程，很希望和你成为朋友！</td>
     </tr>
     <!-- skills -->
     <!-- <tr>
