@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="left">公众号：【 前端超人 】，微信【 ChicSparrow 】，如果你也很热爱编程，很希望和你成为朋友！</td>
+      <td colspan="2" align="left"> ------------- 公众号：【 前端超人 】，微信【 ChicSparrow 】，如果你也很热爱编程，很希望和你成为朋友！--------------- </td>
     </tr>
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=250" />
