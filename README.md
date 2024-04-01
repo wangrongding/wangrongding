@@ -73,17 +73,10 @@
             <a target="_blank" href="https://github.com/wangrongding/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
             <a target="_blank" href="https://github.com/wangrongding/access-counter"><img src="https://img.shields.io/github/stars/wangrongding/access-counter" alt="GitHub stars" /></a>
           </li>
-          <li>
-            <a target="_blank" href="https://github.com/wangrongding/pm-limiter">pm-limiter</a>：🥳node 包管理器的约束工具，用于协同项目的统一规范。
-            <a target="_blank" href="https://github.com/wangrongding/pm-limiter"><img src="https://img.shields.io/github/stars/wangrongding/pm-limiter" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/pm-limiter"
-              ><img src="https://img.shields.io/npm/dt/pm-limiter?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
-            /></a>
-          </li>
         </ul>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td colspan="2" align="left">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff" />
@@ -92,20 +85,12 @@
         <img src="https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D" />
         <img src="https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB" />
         <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Vite-1C78C0?style=flat-square&logo=Vite&logoColor=white" />
         <img src="https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F" />
-        <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
         <img src="https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160" />
         <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js" />
-        <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff" />
-        <img src="https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B" />
-        <img src="https://img.shields.io/badge/-KaliLinux-white?style=flat-square&logo=KaliLinux&logoColor=white&color=blue" />
-        <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1" />
-        <img src="https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000" />
-        <img src="https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white" />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td colspan="2" align="left"> 如果你同样对技术非常热爱，欢迎添加我的技术交流群，微信: ChicSparrow </td>
     </tr>
