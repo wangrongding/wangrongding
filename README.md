@@ -26,11 +26,11 @@
           <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a></li>
         </ul>
       </td>
-      <td align="center" width="150px">
-        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
-      </td>
       <td align="center" width="30%">
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
+      </td>
+      <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
       </td>
     </tr>
     <!-- repo -->
