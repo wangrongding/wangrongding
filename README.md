@@ -2,7 +2,7 @@
   <table>
     <!-- Header -->
     <tr>
-      <td colspan="2" align="left">
+      <td colspan="3" align="left">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
         <b> Hi there! I'm Rongding~ </b>
         <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
@@ -26,16 +26,19 @@
           <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a></li>
         </ul>
       </td>
+      <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
+      </td>
       <td align="center" width="30%">
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
       </td>
     </tr>
     <!-- repo -->
     <tr>
-      <td colspan="2" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
+      <td colspan="3" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
     </tr>
     <tr>
-      <td colspan="2" align="left">
+      <td colspan="3" align="left">
         <ul>
           <li>
             <a target="_blank" href="https://github.com/wangrongding/webcut">WebCut</a>：🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
@@ -91,9 +94,6 @@
         <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js" />
       </td>
     </tr> -->
-    <tr>
-      <td colspan="2" align="left"> 如果你同样对技术非常热爱，欢迎添加我的技术交流群，微信: ChicSparrow </td>
-    </tr>
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=250" />
 </div>
