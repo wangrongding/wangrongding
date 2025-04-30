@@ -35,7 +35,7 @@
     </tr>
     <!-- repo -->
     <tr>
-      <td colspan="3" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
+      <td colspan="3" align="left"><b>Some warehouses that can't be accommodated in the fixed display panel：</b></td>
     </tr>
     <tr>
       <td colspan="3" align="left">
