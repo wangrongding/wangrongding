@@ -41,6 +41,10 @@
       <td colspan="3" align="left">
         <ul>
           <li>
+            <a target="_blank" href="https://github.com/wangrongding/webcut">clash-kit</a>：🖥  一个基于 Node.js 的 Clash 命令行管理工具
+            <a target="_blank" href="https://github.com/wangrongding/webcut"><img src="https://img.shields.io/github/stars/wangrongding/clash-kit" alt="GitHub stars" /></a>
+          </li>
+          <li>
             <a target="_blank" href="https://github.com/wangrongding/webcut">WebCut</a>：🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
             <a target="_blank" href="https://github.com/wangrongding/webcut"><img src="https://img.shields.io/github/stars/wangrongding/webcut" alt="GitHub stars" /></a>
           </li>
