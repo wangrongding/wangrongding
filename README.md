@@ -41,7 +41,7 @@
       <td colspan="3" align="left">
         <ul>
           <li>
-            <a target="_blank" href="https://github.com/wangrongding/clash-kit">clash-kit</a>：🖥  一个基于 Node.js 的 Clash 命令行管理工具
+            <a target="_blank" href="https://github.com/wangrongding/clash-kit">clash-kit</a>：🖥  一个基于 Node.js 的 Clash 网络代理命令行工具
             <a target="_blank" href="https://github.com/wangrongding/clash-kit"><img src="https://img.shields.io/github/stars/wangrongding/clash-kit" alt="GitHub stars" /></a>
           </li>
           <li>
