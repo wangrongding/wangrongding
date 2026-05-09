@@ -41,8 +41,18 @@
       <td colspan="3" align="left">
         <ul>
           <li>
+            <a target="_blank" href="https://github.com/wangrongding/ai-ins">ai-ins</a>：✨ 通过在页面中点选 DOM 修改页面交互的一款 Vite / Webpack... 插件
+            <a target="_blank" href="https://github.com/wangrongding/ai-ins"><img src="https://img.shields.io/github/stars/wangrongding/ai-ins" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/ai-ins"
+              ><img src="https://img.shields.io/npm/dt/ai-ins?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
+            /></a>
+          </li>
+          <li>
             <a target="_blank" href="https://github.com/wangrongding/clash-kit">clash-kit</a>：🖥  一个基于 Node.js 的 Clash 网络代理命令行工具
             <a target="_blank" href="https://github.com/wangrongding/clash-kit"><img src="https://img.shields.io/github/stars/wangrongding/clash-kit" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/clash-kit"
+              ><img src="https://img.shields.io/npm/dt/clash-kit?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
+            /></a>
           </li>
           <li>
             <a target="_blank" href="https://github.com/wangrongding/webcut">WebCut</a>：🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
